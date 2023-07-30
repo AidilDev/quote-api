@@ -1,5 +1,5 @@
 {
-  "framework": "react",
+  "framework": "other",
   "build": "yarn build",
   "environment": {
     "PORT": "3000"
